@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mugene_Half';
+    src: url('fonts/Mugene_Half.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Mugene_Regular';
+    src: url('fonts/Mugene_Regular.otf') format('opentype');
+}
