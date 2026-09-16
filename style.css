@@ -1,9 +1,44 @@
 @font-face {
-    font-family: 'Mugene_Half';
-    src: url('fonts/Mugene_Half.otf') format('opentype');
+    font-family: 'Mugene-Regular';
+    src: url('fonts/Mugene-Regular.woff2') format('woff2');
+    font-weight: 400;
 }
 
 @font-face {
-    font-family: 'Mugene_Regular';
-    src: url('fonts/Mugene_Regular.otf') format('opentype');
+    font-family: 'Mugene-Italic';
+    src: url('fonts/Mugene-Italic.woff2') format('woff2');
+    font-weight: 400;
 }
+
+@font-face {
+    font-family: 'Mugene-Bold';
+    src: url('fonts/Mugene-Bold.woff2') format('woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Mugene-BoldItalic';
+    src: url('fonts/Mugene-BoldItalic.woff2') format('woff2');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Mugene-Light';
+    src: url('fonts/Mugene-Light.woff2') format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Mugene-LightItalic';
+    src: url('fonts/Mugene-LightItalic.woff2') format('woff2');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Mugene-Random';
+    src: url('fonts/Mugene-Random.woff2') format('woff2');
+    font-weight: 300;
+}
+
+        
+
